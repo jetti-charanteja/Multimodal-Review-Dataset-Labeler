@@ -12,7 +12,7 @@ A Tkinter-based GUI tool to **label, organize, and export multimodal data** (Tex
 - 📤 **Export** annotations as:
   - CSV (`annotations.csv`)
   - PDF (`annotations.pdf`)
-  - MySQL Database (`annotation_db.annotations`)
+  - MySQL Database (`annotation_db.sql`)
 - 💾 **Structured MySQL uploads** with `source_type` auto-tagging
 - 🎨 **Responsive full-screen UI** with scrollable layout
 - 🧠 **Built using**: Python, Tkinter, Pandas, FPDF, PyMySQL, PIL (Pillow)
