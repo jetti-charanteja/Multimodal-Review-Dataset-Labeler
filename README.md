@@ -112,9 +112,6 @@ If this tool helped you in any way, do ⭐️ star the repo and consider contrib
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ``` yaml
-
----
-
 ✅ Let me know if you want:
 - README in **Telugu** (for regional GitHub audience)
 - Aesthetic badge style (using Shields.io)
