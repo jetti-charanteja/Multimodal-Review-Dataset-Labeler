@@ -96,7 +96,6 @@ A Tkinter-based GUI tool to **label, organize, and export multimodal data** (Tex
  ┗ 📄 annotations.pdf
 
 ## 🙋‍♀️ **Author**
-```user
     👤 Jetti Charan Teja Naga Sai
     💼 Developed as part of real-world multimodal AI tooling
     📫 Feel free to connect via LinkedIn or GitHub
