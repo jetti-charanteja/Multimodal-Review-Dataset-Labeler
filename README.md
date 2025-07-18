@@ -49,16 +49,17 @@ A Tkinter-based GUI tool to **label, organize, and export multimodal data** (Tex
    pip install -r requirements.txt
 3. **Start MySQL and create DB (one-time setup)**
    ```sql
-CREATE DATABASE IF NOT EXISTS annotation_db;
-USE annotation_db;
-
-CREATE TABLE IF NOT EXISTS annotations (
+   CREATE DATABASE IF NOT EXISTS annotation_db;
+   USE annotation_db;
+ 
+   CREATE TABLE IF NOT EXISTS annotations (
     id INT AUTO_INCREMENT PRIMARY KEY,
     file VARCHAR(255) NOT NULL,
     label VARCHAR(255) NOT NULL,
     source_type ENUM('Text', 'Image', 'Audio', 'Unknown') DEFAULT 'Unknown',
     timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
-);
+   );
+
 
 4. **Update your db_config**
    ```bash
