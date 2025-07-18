@@ -34,7 +34,7 @@ A Tkinter-based GUI tool to **label, organize, and export multimodal data** (Tex
 
 ## 📸 UI Preview
 
-![Multimodal Review Dataset Labeler UI](IMAGES/1.jpg)
+![Multimodal Review Dataset Labeler UI](IMAGES/main_ui.jpg)
 
 ---
 
