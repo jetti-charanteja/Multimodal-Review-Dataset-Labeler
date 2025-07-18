@@ -64,7 +64,7 @@ A Tkinter-based GUI tool to **label, organize, and export multimodal data** (Tex
 4. **Update your db_config**
    ```bash
    # DB Config
-DB_CONFIG = {
+   DB_CONFIG = {
     "host": "localhost",
     "user": "root",
     "password": "root",
@@ -72,7 +72,7 @@ DB_CONFIG = {
     "port": 3306,
     "charset": "utf8mb4",
     "autocommit": True
-} 
+   } 
 
 5. **Run the app**
    ```bash
